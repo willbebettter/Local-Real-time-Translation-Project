@@ -1,6 +1,7 @@
 # 本地文字实时翻译
 
 一个基于Ollama和Qwen3-VL模型的本地实时文字翻译工具。你不需要网上付费进行翻译，也不必担心隐私泄露问题，而你唯一需要做的就是配置本地模型接着尽情使用！
+使用演示视频教程地址: https://www.bilibili.com/video/BV1DDV66qEko/?share_source=copy_web&vd_source=d33f40c80ac747e9389492765ef14959
 
 ## 功能特点
 
